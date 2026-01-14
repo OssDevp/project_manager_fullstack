@@ -1,5 +1,5 @@
 {
-  "name": "fullstack",
+  "name": "project_manager",
   "private": true,
   "scripts": {
     "build": "turbo run build",
